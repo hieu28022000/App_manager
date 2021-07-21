@@ -1,0 +1,7 @@
+__pycache__
+build
+dist
+env
+part_manager.spec
+.vscode
+.DS_Store
