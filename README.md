@@ -5,7 +5,7 @@
 ## Usage
 
 ```bash
-# Install dependencies
+# Install package
 pip install -r requirements.txt
 
 # Run script
